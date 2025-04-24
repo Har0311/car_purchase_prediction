@@ -1,4 +1,5 @@
-Project Structure - 
+#Project Structure - 
+
 PRODUCT_SALES_PREDICTION/
 │
 ├── data/
@@ -15,15 +16,15 @@ PRODUCT_SALES_PREDICTION/
 
 
 
-How to run : 
-1. Clone the repository: git clone https://github.com/yourusername/car-purchase-prediction.git
+#How to run : 
+1. Clone the repository: git clone https://github.com/yourusername/car_purchase_prediction.git
                         cd car-purchase-prediction
 
 2. Install dependencies
 
 
 
-Features: 
+#Features: 
 Preprocessing: Feature scaling and data cleaning using preprocessing.py
 
 Model Training: Random Forest or other models using modeling.py
@@ -31,18 +32,18 @@ Model Training: Random Forest or other models using modeling.py
 Evaluation: RMSE and R² metrics for model performance
 
 
-Results :
+#Results :
 R² Score: 0.9472
 
 RMSE: 2385.59
 
 
-Algorithms Used :
+#Algorithms Used :
 Random Forest Regressor
 
 
 
-Dependencies :
+#Dependencies :
 pandas
 
 numpy
